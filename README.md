@@ -1,4 +1,4 @@
-# Keypad and Seven-Segment Decoder Implementation 
+# Enhanced Calculator using Keypad and Seven-Segment Decoder Implementation 
 
 ## Overview
 
