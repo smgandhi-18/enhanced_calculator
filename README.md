@@ -25,5 +25,5 @@ This VHDL code provides a practical implementation of interfacing a keypad and S
 
 ## License
 
-This VHDL code is provided under an open-source license, allowing for unrestricted use, modification, and distribution.
+This VHDL code is provided under an open-source license, allowing for unrestricted use, modification, and distribution. Please provide credits to the author(s).
 
